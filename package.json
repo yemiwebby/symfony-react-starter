@@ -13,5 +13,8 @@
         "dev": "encore dev",
         "watch": "encore dev --watch",
         "build": "encore production"
+    },
+    "dependencies": {
+        "material-ui": "^0.20.1"
     }
 }
