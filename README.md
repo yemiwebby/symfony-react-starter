@@ -6,6 +6,9 @@ This is a Symfony - React starter built with Symfony and React, then powered by 
 
 ![sym-starter-768x446](https://user-images.githubusercontent.com/19610753/45068857-6d13f000-b0c1-11e8-8aee-d931508d8b7f.png)
 
+## Link to tutorial
+[Here](https://www.cloudways.com/blog/symfony-react-using-webpack-encore/)
+
 
 
 ## Getting Started
